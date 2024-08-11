@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hi there I'm Matilda 👋
+
+- 🔭 I’m currently working on RAG and Agentic AI
+- 📫 How to reach me: LinkedIn https://www.linkedin.com/in/matilda-glynn-henley/
 
 <!--
 **mglynnhenley/mglynnhenley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
